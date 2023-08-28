@@ -24,3 +24,7 @@ public class Block {
         return calculatedHash;
     }
 }
+//sha256 - cryptographic function that produces
+// a 256 bits or 64 hexadecimal characters output
+// regardless of input size
+//cannot reverse engineer the original input
